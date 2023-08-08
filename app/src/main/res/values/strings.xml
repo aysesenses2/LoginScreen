@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="sign_up_with_google">Sign up with Google</string>
+    <string name="defaultpassword">User Guide <a href="http://www.cleverfinger.com.au/user-guide/">http://www.cleverfinger.com.au/user-guide/</a></string>
+    <string name="accept_terms">By signing up to create an account I accept Company\'s Terms of use and Privacy Policy.</string>
+
+</resources>
